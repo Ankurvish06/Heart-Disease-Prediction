@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction alo
+# Heart-Disease-Prediction algo
